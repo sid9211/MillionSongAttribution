@@ -1,0 +1,216 @@
+1525
+305
+defaultdict(<type 'int'>, {0.0: 590, 1.0: 630})
+1.0
+             precision    recall  f1-score   support
+
+          0       0.00      0.00      0.00       140
+          1       0.54      1.00      0.70       165
+
+avg / total       0.29      0.54      0.38       305
+
+0.540983606557
+1525
+305
+defaultdict(<type 'int'>, {0.0: 603, 1.0: 617})
+1.0
+             precision    recall  f1-score   support
+
+          0       0.00      0.00      0.00       127
+          1       0.58      1.00      0.74       178
+
+avg / total       0.34      0.58      0.43       305
+
+0.583606557377
+1525
+305
+defaultdict(<type 'int'>, {0.0: 577, 1.0: 643})
+1.0
+             precision    recall  f1-score   support
+
+          0       0.00      0.00      0.00       153
+          1       0.50      1.00      0.67       152
+
+avg / total       0.25      0.50      0.33       305
+
+0.498360655738
+1525
+305
+defaultdict(<type 'int'>, {0.0: 604, 1.0: 616})
+1.0
+             precision    recall  f1-score   support
+
+          0       0.00      0.00      0.00       126
+          1       0.59      1.00      0.74       179
+
+avg / total       0.34      0.59      0.43       305
+
+0.586885245902
+1525
+305
+defaultdict(<type 'int'>, {0.0: 569, 1.0: 651})
+1.0
+             precision    recall  f1-score   support
+
+          0       0.00      0.00      0.00       161
+          1       0.47      1.00      0.64       144
+
+avg / total       0.22      0.47      0.30       305
+
+0.472131147541
+1525
+305
+defaultdict(<type 'int'>, {0.0: 591, 1.0: 629})
+1.0
+             precision    recall  f1-score   support
+
+          0       0.00      0.00      0.00       139
+          1       0.54      1.00      0.70       166
+
+avg / total       0.30      0.54      0.38       305
+
+0.544262295082
+1525
+305
+defaultdict(<type 'int'>, {0.0: 587, 1.0: 633})
+1.0
+             precision    recall  f1-score   support
+
+          0       0.00      0.00      0.00       143
+          1       0.53      1.00      0.69       162
+
+avg / total       0.28      0.53      0.37       305
+
+0.531147540984
+1525
+305
+defaultdict(<type 'int'>, {0.0: 583, 1.0: 637})
+1.0
+             precision    recall  f1-score   support
+
+          0       0.00      0.00      0.00       147
+          1       0.52      1.00      0.68       158
+
+avg / total       0.27      0.52      0.35       305
+
+0.518032786885
+1525
+305
+defaultdict(<type 'int'>, {0.0: 587, 1.0: 633})
+1.0
+             precision    recall  f1-score   support
+
+          0       0.00      0.00      0.00       143
+          1       0.53      1.00      0.69       162
+
+avg / total       0.28      0.53      0.37       305
+
+0.531147540984
+1525
+305
+defaultdict(<type 'int'>, {0.0: 591, 1.0: 629})
+1.0
+             precision    recall  f1-score   support
+
+          0       0.00      0.00      0.00       139
+          1       0.54      1.00      0.70       166
+
+avg / total       0.30      0.54      0.38       305
+
+0.544262295082
+1525
+305
+defaultdict(<type 'int'>, {0.0: 596, 1.0: 624})
+1.0
+             precision    recall  f1-score   support
+
+          0       0.00      0.00      0.00       134
+          1       0.56      1.00      0.72       171
+
+avg / total       0.31      0.56      0.40       305
+
+0.560655737705
+1525
+305
+defaultdict(<type 'int'>, {0.0: 586, 1.0: 634})
+1.0
+             precision    recall  f1-score   support
+
+          0       0.00      0.00      0.00       144
+          1       0.53      1.00      0.69       161
+
+avg / total       0.28      0.53      0.36       305
+
+0.527868852459
+1525
+305
+defaultdict(<type 'int'>, {0.0: 570, 1.0: 650})
+1.0
+             precision    recall  f1-score   support
+
+          0       0.00      0.00      0.00       160
+          1       0.48      1.00      0.64       145
+
+avg / total       0.23      0.48      0.31       305
+
+0.475409836066
+1525
+305
+defaultdict(<type 'int'>, {0.0: 584, 1.0: 636})
+1.0
+             precision    recall  f1-score   support
+
+          0       0.00      0.00      0.00       146
+          1       0.52      1.00      0.69       159
+
+avg / total       0.27      0.52      0.36       305
+
+0.52131147541
+1525
+305
+defaultdict(<type 'int'>, {0.0: 586, 1.0: 634})
+1.0
+             precision    recall  f1-score   support
+
+          0       0.00      0.00      0.00       144
+          1       0.53      1.00      0.69       161
+
+avg / total       0.28      0.53      0.36       305
+
+0.527868852459
+1525
+305
+defaultdict(<type 'int'>, {0.0: 585, 1.0: 635})
+1.0
+             precision    recall  f1-score   support
+
+          0       0.00      0.00      0.00       145
+          1       0.52      1.00      0.69       160
+
+avg / total       0.28      0.52      0.36       305
+
+0.524590163934
+1525
+305
+defaultdict(<type 'int'>, {0.0: 582, 1.0: 638})
+1.0
+             precision    recall  f1-score   support
+
+          0       0.00      0.00      0.00       148
+          1       0.51      1.00      0.68       157
+
+avg / total       0.26      0.51      0.35       305
+
+0.514754098361
+1525
+305
+defaultdict(<type 'int'>, {0.0: 594, 1.0: 626})
+1.0
+             precision    recall  f1-score   support
+
+          0       0.00      0.00      0.00       136
+          1       0.55      1.00      0.71       169
+
+avg / total       0.31      0.55      0.40       305
+
+0.554098360656

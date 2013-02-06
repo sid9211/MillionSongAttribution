@@ -1,0 +1,1266 @@
+Downloading/unpacking remix
+  Getting page http://pypi.python.org/simple/remix
+  URLs to search for versions for remix:
+  * http://pypi.python.org/simple/remix
+  Getting page http://developer.echonest.com/
+  Getting page https://github.com/echonest/remix
+  Analyzing links from page http://pypi.python.org/simple/remix/
+    Found link http://pypi.python.org/packages/source/r/remix/remix-1.6.0.tar.gz#md5=d317bfea2618feae7efc363ce7fb8034 (from http://pypi.python.org/simple/remix/), version: 1.6.0
+    Found link http://pypi.python.org/packages/source/r/remix/remix-1.5.0.tar.gz#md5=e8ddc8145256e69587a696ee3f19e7db (from http://pypi.python.org/simple/remix/), version: 1.5.0
+    Found link http://pypi.python.org/packages/source/r/remix/remix-1.6.1.tar.gz#md5=6fb574ac572b0be6be4d53114183323b (from http://pypi.python.org/simple/remix/), version: 1.6.1
+    Skipping link http://developer.echonest.com/ (from http://pypi.python.org/simple/remix/); not a file
+    Skipping link https://github.com/echonest/remix (from http://pypi.python.org/simple/remix/); not a file
+    Skipping link http://echonest.github.com/remix (from http://pypi.python.org/simple/remix/); not a file
+  Analyzing links from page http://developer.echonest.com/
+    Skipping link http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,600,700,800,300|Anonymous+Pro:400,700 (from http://developer.echonest.com/); not a file
+    Skipping link http://the.echonest.com/favicon.ico (from http://developer.echonest.com/); unknown archive format: .ico
+    Skipping link http://developer.echonest.com/legacy/en.css (from http://developer.echonest.com/); unknown archive format: .css
+    Skipping link http://developer.echonest.com/css/app/master.css?v=1 (from http://developer.echonest.com/); unknown archive format: .css
+    Skipping link http://developer.echonest.com/css/app/tutorial.css (from http://developer.echonest.com/); unknown archive format: .css
+    Skipping link http://developer.echonest.com/css/new.css (from http://developer.echonest.com/); unknown archive format: .css
+    Skipping link http://the.echonest.com/ (from http://developer.echonest.com/); not a file
+    Skipping link http://the.echonest.com/customers/ (from http://developer.echonest.com/); not a file
+    Skipping link http://the.echonest.com/solutions/ (from http://developer.echonest.com/); not a file
+    Skipping link http://blog.echonest.com/ (from http://developer.echonest.com/); not a file
+    Skipping link http://developer.echonest.com (from http://developer.echonest.com/); not a file
+    Skipping link http://the.echonest.com/company/ (from http://developer.echonest.com/); not a file
+    Skipping link http://the.echonest.com/showcase/ (from http://developer.echonest.com/); not a file
+    Skipping link http://the.echonest.com/jobs/ (from http://developer.echonest.com/); not a file
+    Skipping link http://the.echonest.com/news/ (from http://developer.echonest.com/); not a file
+    Skipping link http://developer.echonest.com/account/register (from http://developer.echonest.com/); not a file
+    Skipping link http://developer.echonest.com/tutorial-overview.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/client_libraries.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/sandbox/deezer.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/sandbox/discogs.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/sandbox/emi/ (from http://developer.echonest.com/); not a file
+    Skipping link http://developer.echonest.com/sandbox/freemusicarchive.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/sandbox/jambase.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/sandbox/lyricfind.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/sandbox/musicbrainz.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/sandbox/musixmatch.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/sandbox/rhapsody.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/sandbox/rdio.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/sandbox/seatwave.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/sandbox/songkick.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/sandbox/songmeanings.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/sandbox/spotify.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/sandbox/7digital.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/index.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/licensing.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/docs/v4 (from http://developer.echonest.com/); not a file
+    Skipping link http://developer.echonest.com/acoustic-attributes.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://echonest.github.com/remix/ (from http://developer.echonest.com/); not a file
+    Skipping link http://developer.echonest.com/forums (from http://developer.echonest.com/); not a file
+    Skipping link http://the.echonest.com/platform/showcase/ (from http://developer.echonest.com/); not a file
+    Skipping link http://the.echonest.com/contact/ (from http://developer.echonest.com/); not a file
+    Skipping link http://www.facebook.com/echonest (from http://developer.echonest.com/); not a file
+    Skipping link http://twitter.com/echonest (from http://developer.echonest.com/); not a file
+    Skipping link http://the.echonest.com/board/ (from http://developer.echonest.com/); not a file
+    Skipping link http://the.echonest.com/legal/ (from http://developer.echonest.com/); not a file
+    Skipping link http://developer.echonest.com/ (from http://developer.echonest.com/); not a file
+    Skipping link http://evolver.fm/ (from http://developer.echonest.com/); not a file
+    Skipping link http://musicmachinery.com/ (from http://developer.echonest.com/); not a file
+    Skipping link http://nest.echonest.com/ (from http://developer.echonest.com/); not a file
+    Skipping link http://blog.echonest.com (from http://developer.echonest.com/); not a file
+    Skipping link http://the.echonest.com/events/ (from http://developer.echonest.com/); not a file
+    Skipping link http://the.echonest.com/privacy/ (from http://developer.echonest.com/); not a file
+    Skipping link http://www.statcounter.com/ (from http://developer.echonest.com/); not a file
+  Analyzing links from page https://github.com/echonest/remix
+    Skipping link https://github.com/opensearch.xml (from https://github.com/echonest/remix); unknown archive format: .xml
+    Skipping link https://github.com/fluidicon.png (from https://github.com/echonest/remix); unknown archive format: .png
+    Skipping link https://github.com/echonest/apple-touch-icon-114.png (from https://github.com/echonest/remix); unknown archive format: .png
+    Skipping link https://github.com/echonest/apple-touch-icon-144.png (from https://github.com/echonest/remix); unknown archive format: .png
+    Skipping link https://github.com/favicon.ico (from https://github.com/echonest/remix); unknown archive format: .ico
+    Skipping link https://a248.e.akamai.net/assets.github.com/assets/github-18bd3584f9db1b540fe954d831904cc3700bd65a.css (from https://github.com/echonest/remix); unknown archive format: .css
+    Skipping link https://a248.e.akamai.net/assets.github.com/assets/github2-450987452c1b67ffd9b1fc4bb61ed5d16f35c83b.css (from https://github.com/echonest/remix); unknown archive format: .css
+    Skipping link https://github.com/echonest/remix/tree/86a769d4bb92eeebe9101d5cdd3e25a423d34bb3 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/commits/master.atom (from https://github.com/echonest/remix); unknown archive format: .atom
+    Skipping link https://github.com/ (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/explore (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/search (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/features (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/blog (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/signup (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/login?return_to=%2Fechonest%2Fremix (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/stargazers (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/network (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/pulls (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/issues (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/wiki (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/graphs (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/languages/Python (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/languages/C%2B%2B (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/languages/ActionScript (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/languages/JavaScript (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/languages/Objective-C (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/languages/C (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix#readme (from https://github.com/echonest/remix); not a file
+    Skipping link http://echonest.github.com/remix (from https://github.com/echonest/remix); not a file
+    Could not parse version from link: https://github.com/echonest/remix/archive/master.zip (from https://github.com/echonest/remix)
+    Skipping link https://github.com/echonest/remix/archive/master.zip (from https://github.com/echonest/remix); wrong project name (not remix)
+    Skipping link https://github.com/echonest/remix.git (from https://github.com/echonest/remix); unknown archive format: .git
+    Skipping link https://github.com/echonest/git@github.com:echonest/remix.git (from https://github.com/echonest/remix); unknown archive format: .git
+    Skipping link git://github.com/echonest/remix.git (from https://github.com/echonest/remix); unknown archive format: .git
+    Skipping link https://github.com/echonest/remix/tags (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/downloads (from https://github.com/echonest/remix); not a file
+    Skipping link javascript:; (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/tree/gh-pages (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/tree/master (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/tree/new-javascript (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/tree/1.6.1 (from https://github.com/echonest/remix); unknown archive format: .1
+    Skipping link https://github.com/echonest/remix/tree/1.6.0 (from https://github.com/echonest/remix); unknown archive format: .0
+    Skipping link https://github.com/echonest/remix/commits/master (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/branches (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/find/master (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/commit/86a769d4bb92eeebe9101d5cdd3e25a423d34bb3 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/tkell (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/tree/master/apidocs (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/commit/8a5e75f1148131aa012daf290906d1d4ba5ad9c7 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/bwhitman (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/tree/master/examples (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/commit/1f1c7124beef6b8994c0e8bc2c086ace27ee7006 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/tree/master/external (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/commit/cbe2f80ff1971e8e7f061b5d088bfc4bc33dc00d (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/psobot (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/tree/master/flash (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/commit/03b0f5635e1e351430e260012f875a12c15873e1 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/also (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/tree/master/src (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/commit/b3c504aaa063fe22b24c6b473447a32d44dce90e (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/tree/master/tests (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/commit/fdb2ed2c0652b71c750465eec35bb9f9c7ba5c46 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/blacker (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/tree/master/tutorial (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/commit/3ecd3adf7b7393b35a7d3029225b6025407de2c6 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/blob/master/.gitmodules (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/commit/cf714699459f90c51554fd97a6658870fea83b8a (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/blob/master/INSTALL.txt (from https://github.com/echonest/remix); unknown archive format: .txt
+    Skipping link https://github.com/echonest/remix/blob/master/MANIFEST.in (from https://github.com/echonest/remix); unknown archive format: .in
+    Skipping link https://github.com/echonest/remix/commit/724e4ccd43a3df6d7a8b94929630bc69f7e59967 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/blob/master/README.md (from https://github.com/echonest/remix); unknown archive format: .md
+    Skipping link https://github.com/echonest/remix/commit/dc275596ff5e85b589d1e1cf9aa6ae57bb1ab471 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/blob/master/RELEASE_NOTES.txt (from https://github.com/echonest/remix); unknown archive format: .txt
+    Skipping link https://github.com/echonest/remix/blob/master/builddocs.sh (from https://github.com/echonest/remix); unknown archive format: .sh
+    Skipping link https://github.com/echonest/remix/commit/04c776b4a36aa58fb71d03a9ab4c11d94ebee3d5 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/blob/master/epydoc.cfg (from https://github.com/echonest/remix); unknown archive format: .cfg
+    Skipping link https://github.com/echonest/remix/commit/780ae40a592105abdebeb341913c08fb76bbca37 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/blob/master/fix_develop_install.py (from https://github.com/echonest/remix); unknown archive format: .py
+    Skipping link https://github.com/echonest/remix/commit/89cab9773d8c370a0f3b09770028f3aa9846ecd4 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/pyechonest (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/pyechonest/tree/73046e609a2be5ce01179d0589fdfaf10aaebdc3 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/commit/e17276fd16b9362e87de3e6ba3d28b68348fd7a9 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/blob/master/setup.py (from https://github.com/echonest/remix); unknown archive format: .py
+    Skipping link https://github.com/echonest/remix/blob/master/welcome.rtf (from https://github.com/echonest/remix); unknown archive format: .rtf
+    Skipping link https://github.com/echonest/remix/commit/fa9dbeac466c67d17b4c53806173b5de0f8c90fe (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix#welcome-to-echo-nest-remix (from https://github.com/echonest/remix); not a file
+    Skipping link http://www.morecowbell.dj/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://swingify.cloudapp.net/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://the.wubmachine.com/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://www.youtube.com/watch?v=_bW7AkhgQpc/ (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix#getting-started (from https://github.com/echonest/remix); not a file
+    Skipping link http://echonest.github.com/remix/ (from https://github.com/echonest/remix); not a file
+    Skipping link https://a248.e.akamai.net/camo.github.com/c7a3810cd59b15375246e5468b46cdecd18edbb9/687474703a2f2f692e696d6775722e636f6d2f57574c596f2e676966 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/about (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/contact (from https://github.com/echonest/remix); not a file
+    Skipping link http://enterprise.github.com/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://status.github.com/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://mac.github.com/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://windows.github.com/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://eclipse.github.com/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://mobile.github.com/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://get.gaug.es/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://speakerdeck.com (from https://github.com/echonest/remix); not a file
+    Skipping link https://gist.github.com (from https://github.com/echonest/remix); not a file
+    Skipping link http://jobs.github.com/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://help.github.com/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://developer.github.com/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://github.github.com/github-flavored-markdown/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://pages.github.com/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://training.github.com/ (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/edu (from https://github.com/echonest/remix); not a file
+    Skipping link http://shop.github.com (from https://github.com/echonest/remix); not a file
+    Skipping link http://octodex.github.com/ (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/site/terms (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/site/privacy (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/security (from https://github.com/echonest/remix); not a file
+  Analyzing links from page http://developer.echonest.com/
+    Skipping link http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,600,700,800,300|Anonymous+Pro:400,700 (from http://developer.echonest.com/); not a file
+    Skipping link http://the.echonest.com/favicon.ico (from http://developer.echonest.com/); unknown archive format: .ico
+    Skipping link http://developer.echonest.com/legacy/en.css (from http://developer.echonest.com/); unknown archive format: .css
+    Skipping link http://developer.echonest.com/css/app/master.css?v=1 (from http://developer.echonest.com/); unknown archive format: .css
+    Skipping link http://developer.echonest.com/css/app/tutorial.css (from http://developer.echonest.com/); unknown archive format: .css
+    Skipping link http://developer.echonest.com/css/new.css (from http://developer.echonest.com/); unknown archive format: .css
+    Skipping link http://the.echonest.com/ (from http://developer.echonest.com/); not a file
+    Skipping link http://the.echonest.com/customers/ (from http://developer.echonest.com/); not a file
+    Skipping link http://the.echonest.com/solutions/ (from http://developer.echonest.com/); not a file
+    Skipping link http://blog.echonest.com/ (from http://developer.echonest.com/); not a file
+    Skipping link http://developer.echonest.com (from http://developer.echonest.com/); not a file
+    Skipping link http://the.echonest.com/company/ (from http://developer.echonest.com/); not a file
+    Skipping link http://the.echonest.com/showcase/ (from http://developer.echonest.com/); not a file
+    Skipping link http://the.echonest.com/jobs/ (from http://developer.echonest.com/); not a file
+    Skipping link http://the.echonest.com/news/ (from http://developer.echonest.com/); not a file
+    Skipping link http://developer.echonest.com/account/register (from http://developer.echonest.com/); not a file
+    Skipping link http://developer.echonest.com/tutorial-overview.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/client_libraries.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/sandbox/deezer.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/sandbox/discogs.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/sandbox/emi/ (from http://developer.echonest.com/); not a file
+    Skipping link http://developer.echonest.com/sandbox/freemusicarchive.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/sandbox/jambase.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/sandbox/lyricfind.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/sandbox/musicbrainz.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/sandbox/musixmatch.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/sandbox/rhapsody.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/sandbox/rdio.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/sandbox/seatwave.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/sandbox/songkick.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/sandbox/songmeanings.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/sandbox/spotify.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/sandbox/7digital.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/index.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/licensing.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/docs/v4 (from http://developer.echonest.com/); not a file
+    Skipping link http://developer.echonest.com/acoustic-attributes.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://echonest.github.com/remix/ (from http://developer.echonest.com/); not a file
+    Skipping link http://developer.echonest.com/forums (from http://developer.echonest.com/); not a file
+    Skipping link http://the.echonest.com/platform/showcase/ (from http://developer.echonest.com/); not a file
+    Skipping link http://the.echonest.com/contact/ (from http://developer.echonest.com/); not a file
+    Skipping link http://www.facebook.com/echonest (from http://developer.echonest.com/); not a file
+    Skipping link http://twitter.com/echonest (from http://developer.echonest.com/); not a file
+    Skipping link http://the.echonest.com/board/ (from http://developer.echonest.com/); not a file
+    Skipping link http://the.echonest.com/legal/ (from http://developer.echonest.com/); not a file
+    Skipping link http://developer.echonest.com/ (from http://developer.echonest.com/); not a file
+    Skipping link http://evolver.fm/ (from http://developer.echonest.com/); not a file
+    Skipping link http://musicmachinery.com/ (from http://developer.echonest.com/); not a file
+    Skipping link http://nest.echonest.com/ (from http://developer.echonest.com/); not a file
+    Skipping link http://blog.echonest.com (from http://developer.echonest.com/); not a file
+    Skipping link http://the.echonest.com/events/ (from http://developer.echonest.com/); not a file
+    Skipping link http://the.echonest.com/privacy/ (from http://developer.echonest.com/); not a file
+    Skipping link http://www.statcounter.com/ (from http://developer.echonest.com/); not a file
+  Analyzing links from page https://github.com/echonest/remix
+    Skipping link https://github.com/opensearch.xml (from https://github.com/echonest/remix); unknown archive format: .xml
+    Skipping link https://github.com/fluidicon.png (from https://github.com/echonest/remix); unknown archive format: .png
+    Skipping link https://github.com/echonest/apple-touch-icon-114.png (from https://github.com/echonest/remix); unknown archive format: .png
+    Skipping link https://github.com/echonest/apple-touch-icon-144.png (from https://github.com/echonest/remix); unknown archive format: .png
+    Skipping link https://github.com/favicon.ico (from https://github.com/echonest/remix); unknown archive format: .ico
+    Skipping link https://a248.e.akamai.net/assets.github.com/assets/github-18bd3584f9db1b540fe954d831904cc3700bd65a.css (from https://github.com/echonest/remix); unknown archive format: .css
+    Skipping link https://a248.e.akamai.net/assets.github.com/assets/github2-450987452c1b67ffd9b1fc4bb61ed5d16f35c83b.css (from https://github.com/echonest/remix); unknown archive format: .css
+    Skipping link https://github.com/echonest/remix/tree/86a769d4bb92eeebe9101d5cdd3e25a423d34bb3 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/commits/master.atom (from https://github.com/echonest/remix); unknown archive format: .atom
+    Skipping link https://github.com/ (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/explore (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/search (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/features (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/blog (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/signup (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/login?return_to=%2Fechonest%2Fremix (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/stargazers (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/network (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/pulls (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/issues (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/wiki (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/graphs (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/languages/Python (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/languages/C%2B%2B (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/languages/ActionScript (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/languages/JavaScript (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/languages/Objective-C (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/languages/C (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix#readme (from https://github.com/echonest/remix); not a file
+    Skipping link http://echonest.github.com/remix (from https://github.com/echonest/remix); not a file
+    Could not parse version from link: https://github.com/echonest/remix/archive/master.zip (from https://github.com/echonest/remix)
+    Skipping link https://github.com/echonest/remix/archive/master.zip (from https://github.com/echonest/remix); wrong project name (not remix)
+    Skipping link https://github.com/echonest/remix.git (from https://github.com/echonest/remix); unknown archive format: .git
+    Skipping link https://github.com/echonest/git@github.com:echonest/remix.git (from https://github.com/echonest/remix); unknown archive format: .git
+    Skipping link git://github.com/echonest/remix.git (from https://github.com/echonest/remix); unknown archive format: .git
+    Skipping link https://github.com/echonest/remix/tags (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/downloads (from https://github.com/echonest/remix); not a file
+    Skipping link javascript:; (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/tree/gh-pages (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/tree/master (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/tree/new-javascript (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/tree/1.6.1 (from https://github.com/echonest/remix); unknown archive format: .1
+    Skipping link https://github.com/echonest/remix/tree/1.6.0 (from https://github.com/echonest/remix); unknown archive format: .0
+    Skipping link https://github.com/echonest/remix/commits/master (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/branches (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/find/master (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/commit/86a769d4bb92eeebe9101d5cdd3e25a423d34bb3 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/tkell (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/tree/master/apidocs (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/commit/8a5e75f1148131aa012daf290906d1d4ba5ad9c7 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/bwhitman (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/tree/master/examples (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/commit/1f1c7124beef6b8994c0e8bc2c086ace27ee7006 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/tree/master/external (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/commit/cbe2f80ff1971e8e7f061b5d088bfc4bc33dc00d (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/psobot (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/tree/master/flash (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/commit/03b0f5635e1e351430e260012f875a12c15873e1 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/also (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/tree/master/src (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/commit/b3c504aaa063fe22b24c6b473447a32d44dce90e (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/tree/master/tests (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/commit/fdb2ed2c0652b71c750465eec35bb9f9c7ba5c46 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/blacker (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/tree/master/tutorial (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/commit/3ecd3adf7b7393b35a7d3029225b6025407de2c6 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/blob/master/.gitmodules (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/commit/cf714699459f90c51554fd97a6658870fea83b8a (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/blob/master/INSTALL.txt (from https://github.com/echonest/remix); unknown archive format: .txt
+    Skipping link https://github.com/echonest/remix/blob/master/MANIFEST.in (from https://github.com/echonest/remix); unknown archive format: .in
+    Skipping link https://github.com/echonest/remix/commit/724e4ccd43a3df6d7a8b94929630bc69f7e59967 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/blob/master/README.md (from https://github.com/echonest/remix); unknown archive format: .md
+    Skipping link https://github.com/echonest/remix/commit/dc275596ff5e85b589d1e1cf9aa6ae57bb1ab471 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/blob/master/RELEASE_NOTES.txt (from https://github.com/echonest/remix); unknown archive format: .txt
+    Skipping link https://github.com/echonest/remix/blob/master/builddocs.sh (from https://github.com/echonest/remix); unknown archive format: .sh
+    Skipping link https://github.com/echonest/remix/commit/04c776b4a36aa58fb71d03a9ab4c11d94ebee3d5 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/blob/master/epydoc.cfg (from https://github.com/echonest/remix); unknown archive format: .cfg
+    Skipping link https://github.com/echonest/remix/commit/780ae40a592105abdebeb341913c08fb76bbca37 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/blob/master/fix_develop_install.py (from https://github.com/echonest/remix); unknown archive format: .py
+    Skipping link https://github.com/echonest/remix/commit/89cab9773d8c370a0f3b09770028f3aa9846ecd4 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/pyechonest (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/pyechonest/tree/73046e609a2be5ce01179d0589fdfaf10aaebdc3 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/commit/e17276fd16b9362e87de3e6ba3d28b68348fd7a9 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/blob/master/setup.py (from https://github.com/echonest/remix); unknown archive format: .py
+    Skipping link https://github.com/echonest/remix/blob/master/welcome.rtf (from https://github.com/echonest/remix); unknown archive format: .rtf
+    Skipping link https://github.com/echonest/remix/commit/fa9dbeac466c67d17b4c53806173b5de0f8c90fe (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix#welcome-to-echo-nest-remix (from https://github.com/echonest/remix); not a file
+    Skipping link http://www.morecowbell.dj/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://swingify.cloudapp.net/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://the.wubmachine.com/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://www.youtube.com/watch?v=_bW7AkhgQpc/ (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix#getting-started (from https://github.com/echonest/remix); not a file
+    Skipping link http://echonest.github.com/remix/ (from https://github.com/echonest/remix); not a file
+    Skipping link https://a248.e.akamai.net/camo.github.com/c7a3810cd59b15375246e5468b46cdecd18edbb9/687474703a2f2f692e696d6775722e636f6d2f57574c596f2e676966 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/about (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/contact (from https://github.com/echonest/remix); not a file
+    Skipping link http://enterprise.github.com/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://status.github.com/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://mac.github.com/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://windows.github.com/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://eclipse.github.com/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://mobile.github.com/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://get.gaug.es/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://speakerdeck.com (from https://github.com/echonest/remix); not a file
+    Skipping link https://gist.github.com (from https://github.com/echonest/remix); not a file
+    Skipping link http://jobs.github.com/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://help.github.com/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://developer.github.com/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://github.github.com/github-flavored-markdown/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://pages.github.com/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://training.github.com/ (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/edu (from https://github.com/echonest/remix); not a file
+    Skipping link http://shop.github.com (from https://github.com/echonest/remix); not a file
+    Skipping link http://octodex.github.com/ (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/site/terms (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/site/privacy (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/security (from https://github.com/echonest/remix); not a file
+  Analyzing links from page http://developer.echonest.com/
+    Skipping link http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,600,700,800,300|Anonymous+Pro:400,700 (from http://developer.echonest.com/); not a file
+    Skipping link http://the.echonest.com/favicon.ico (from http://developer.echonest.com/); unknown archive format: .ico
+    Skipping link http://developer.echonest.com/legacy/en.css (from http://developer.echonest.com/); unknown archive format: .css
+    Skipping link http://developer.echonest.com/css/app/master.css?v=1 (from http://developer.echonest.com/); unknown archive format: .css
+    Skipping link http://developer.echonest.com/css/app/tutorial.css (from http://developer.echonest.com/); unknown archive format: .css
+    Skipping link http://developer.echonest.com/css/new.css (from http://developer.echonest.com/); unknown archive format: .css
+    Skipping link http://the.echonest.com/ (from http://developer.echonest.com/); not a file
+    Skipping link http://the.echonest.com/customers/ (from http://developer.echonest.com/); not a file
+    Skipping link http://the.echonest.com/solutions/ (from http://developer.echonest.com/); not a file
+    Skipping link http://blog.echonest.com/ (from http://developer.echonest.com/); not a file
+    Skipping link http://developer.echonest.com (from http://developer.echonest.com/); not a file
+    Skipping link http://the.echonest.com/company/ (from http://developer.echonest.com/); not a file
+    Skipping link http://the.echonest.com/showcase/ (from http://developer.echonest.com/); not a file
+    Skipping link http://the.echonest.com/jobs/ (from http://developer.echonest.com/); not a file
+    Skipping link http://the.echonest.com/news/ (from http://developer.echonest.com/); not a file
+    Skipping link http://developer.echonest.com/account/register (from http://developer.echonest.com/); not a file
+    Skipping link http://developer.echonest.com/tutorial-overview.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/client_libraries.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/sandbox/deezer.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/sandbox/discogs.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/sandbox/emi/ (from http://developer.echonest.com/); not a file
+    Skipping link http://developer.echonest.com/sandbox/freemusicarchive.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/sandbox/jambase.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/sandbox/lyricfind.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/sandbox/musicbrainz.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/sandbox/musixmatch.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/sandbox/rhapsody.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/sandbox/rdio.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/sandbox/seatwave.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/sandbox/songkick.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/sandbox/songmeanings.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/sandbox/spotify.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/sandbox/7digital.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/index.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/licensing.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://developer.echonest.com/docs/v4 (from http://developer.echonest.com/); not a file
+    Skipping link http://developer.echonest.com/acoustic-attributes.html (from http://developer.echonest.com/); unknown archive format: .html
+    Skipping link http://echonest.github.com/remix/ (from http://developer.echonest.com/); not a file
+    Skipping link http://developer.echonest.com/forums (from http://developer.echonest.com/); not a file
+    Skipping link http://the.echonest.com/platform/showcase/ (from http://developer.echonest.com/); not a file
+    Skipping link http://the.echonest.com/contact/ (from http://developer.echonest.com/); not a file
+    Skipping link http://www.facebook.com/echonest (from http://developer.echonest.com/); not a file
+    Skipping link http://twitter.com/echonest (from http://developer.echonest.com/); not a file
+    Skipping link http://the.echonest.com/board/ (from http://developer.echonest.com/); not a file
+    Skipping link http://the.echonest.com/legal/ (from http://developer.echonest.com/); not a file
+    Skipping link http://developer.echonest.com/ (from http://developer.echonest.com/); not a file
+    Skipping link http://evolver.fm/ (from http://developer.echonest.com/); not a file
+    Skipping link http://musicmachinery.com/ (from http://developer.echonest.com/); not a file
+    Skipping link http://nest.echonest.com/ (from http://developer.echonest.com/); not a file
+    Skipping link http://blog.echonest.com (from http://developer.echonest.com/); not a file
+    Skipping link http://the.echonest.com/events/ (from http://developer.echonest.com/); not a file
+    Skipping link http://the.echonest.com/privacy/ (from http://developer.echonest.com/); not a file
+    Skipping link http://www.statcounter.com/ (from http://developer.echonest.com/); not a file
+  Analyzing links from page https://github.com/echonest/remix
+    Skipping link https://github.com/opensearch.xml (from https://github.com/echonest/remix); unknown archive format: .xml
+    Skipping link https://github.com/fluidicon.png (from https://github.com/echonest/remix); unknown archive format: .png
+    Skipping link https://github.com/echonest/apple-touch-icon-114.png (from https://github.com/echonest/remix); unknown archive format: .png
+    Skipping link https://github.com/echonest/apple-touch-icon-144.png (from https://github.com/echonest/remix); unknown archive format: .png
+    Skipping link https://github.com/favicon.ico (from https://github.com/echonest/remix); unknown archive format: .ico
+    Skipping link https://a248.e.akamai.net/assets.github.com/assets/github-18bd3584f9db1b540fe954d831904cc3700bd65a.css (from https://github.com/echonest/remix); unknown archive format: .css
+    Skipping link https://a248.e.akamai.net/assets.github.com/assets/github2-450987452c1b67ffd9b1fc4bb61ed5d16f35c83b.css (from https://github.com/echonest/remix); unknown archive format: .css
+    Skipping link https://github.com/echonest/remix/tree/86a769d4bb92eeebe9101d5cdd3e25a423d34bb3 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/commits/master.atom (from https://github.com/echonest/remix); unknown archive format: .atom
+    Skipping link https://github.com/ (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/explore (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/search (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/features (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/blog (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/signup (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/login?return_to=%2Fechonest%2Fremix (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/stargazers (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/network (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/pulls (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/issues (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/wiki (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/graphs (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/languages/Python (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/languages/C%2B%2B (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/languages/ActionScript (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/languages/JavaScript (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/languages/Objective-C (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/languages/C (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix#readme (from https://github.com/echonest/remix); not a file
+    Skipping link http://echonest.github.com/remix (from https://github.com/echonest/remix); not a file
+    Could not parse version from link: https://github.com/echonest/remix/archive/master.zip (from https://github.com/echonest/remix)
+    Skipping link https://github.com/echonest/remix/archive/master.zip (from https://github.com/echonest/remix); wrong project name (not remix)
+    Skipping link https://github.com/echonest/remix.git (from https://github.com/echonest/remix); unknown archive format: .git
+    Skipping link https://github.com/echonest/git@github.com:echonest/remix.git (from https://github.com/echonest/remix); unknown archive format: .git
+    Skipping link git://github.com/echonest/remix.git (from https://github.com/echonest/remix); unknown archive format: .git
+    Skipping link https://github.com/echonest/remix/tags (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/downloads (from https://github.com/echonest/remix); not a file
+    Skipping link javascript:; (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/tree/gh-pages (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/tree/master (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/tree/new-javascript (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/tree/1.6.1 (from https://github.com/echonest/remix); unknown archive format: .1
+    Skipping link https://github.com/echonest/remix/tree/1.6.0 (from https://github.com/echonest/remix); unknown archive format: .0
+    Skipping link https://github.com/echonest/remix/commits/master (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/branches (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/find/master (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/commit/86a769d4bb92eeebe9101d5cdd3e25a423d34bb3 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/tkell (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/tree/master/apidocs (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/commit/8a5e75f1148131aa012daf290906d1d4ba5ad9c7 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/bwhitman (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/tree/master/examples (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/commit/1f1c7124beef6b8994c0e8bc2c086ace27ee7006 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/tree/master/external (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/commit/cbe2f80ff1971e8e7f061b5d088bfc4bc33dc00d (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/psobot (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/tree/master/flash (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/commit/03b0f5635e1e351430e260012f875a12c15873e1 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/also (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/tree/master/src (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/commit/b3c504aaa063fe22b24c6b473447a32d44dce90e (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/tree/master/tests (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/commit/fdb2ed2c0652b71c750465eec35bb9f9c7ba5c46 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/blacker (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/tree/master/tutorial (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/commit/3ecd3adf7b7393b35a7d3029225b6025407de2c6 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/blob/master/.gitmodules (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/commit/cf714699459f90c51554fd97a6658870fea83b8a (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/blob/master/INSTALL.txt (from https://github.com/echonest/remix); unknown archive format: .txt
+    Skipping link https://github.com/echonest/remix/blob/master/MANIFEST.in (from https://github.com/echonest/remix); unknown archive format: .in
+    Skipping link https://github.com/echonest/remix/commit/724e4ccd43a3df6d7a8b94929630bc69f7e59967 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/blob/master/README.md (from https://github.com/echonest/remix); unknown archive format: .md
+    Skipping link https://github.com/echonest/remix/commit/dc275596ff5e85b589d1e1cf9aa6ae57bb1ab471 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/blob/master/RELEASE_NOTES.txt (from https://github.com/echonest/remix); unknown archive format: .txt
+    Skipping link https://github.com/echonest/remix/blob/master/builddocs.sh (from https://github.com/echonest/remix); unknown archive format: .sh
+    Skipping link https://github.com/echonest/remix/commit/04c776b4a36aa58fb71d03a9ab4c11d94ebee3d5 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/blob/master/epydoc.cfg (from https://github.com/echonest/remix); unknown archive format: .cfg
+    Skipping link https://github.com/echonest/remix/commit/780ae40a592105abdebeb341913c08fb76bbca37 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/blob/master/fix_develop_install.py (from https://github.com/echonest/remix); unknown archive format: .py
+    Skipping link https://github.com/echonest/remix/commit/89cab9773d8c370a0f3b09770028f3aa9846ecd4 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/pyechonest (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/pyechonest/tree/73046e609a2be5ce01179d0589fdfaf10aaebdc3 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/commit/e17276fd16b9362e87de3e6ba3d28b68348fd7a9 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix/blob/master/setup.py (from https://github.com/echonest/remix); unknown archive format: .py
+    Skipping link https://github.com/echonest/remix/blob/master/welcome.rtf (from https://github.com/echonest/remix); unknown archive format: .rtf
+    Skipping link https://github.com/echonest/remix/commit/fa9dbeac466c67d17b4c53806173b5de0f8c90fe (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix#welcome-to-echo-nest-remix (from https://github.com/echonest/remix); not a file
+    Skipping link http://www.morecowbell.dj/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://swingify.cloudapp.net/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://the.wubmachine.com/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://www.youtube.com/watch?v=_bW7AkhgQpc/ (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/echonest/remix#getting-started (from https://github.com/echonest/remix); not a file
+    Skipping link http://echonest.github.com/remix/ (from https://github.com/echonest/remix); not a file
+    Skipping link https://a248.e.akamai.net/camo.github.com/c7a3810cd59b15375246e5468b46cdecd18edbb9/687474703a2f2f692e696d6775722e636f6d2f57574c596f2e676966 (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/about (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/contact (from https://github.com/echonest/remix); not a file
+    Skipping link http://enterprise.github.com/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://status.github.com/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://mac.github.com/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://windows.github.com/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://eclipse.github.com/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://mobile.github.com/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://get.gaug.es/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://speakerdeck.com (from https://github.com/echonest/remix); not a file
+    Skipping link https://gist.github.com (from https://github.com/echonest/remix); not a file
+    Skipping link http://jobs.github.com/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://help.github.com/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://developer.github.com/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://github.github.com/github-flavored-markdown/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://pages.github.com/ (from https://github.com/echonest/remix); not a file
+    Skipping link http://training.github.com/ (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/edu (from https://github.com/echonest/remix); not a file
+    Skipping link http://shop.github.com (from https://github.com/echonest/remix); not a file
+    Skipping link http://octodex.github.com/ (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/site/terms (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/site/privacy (from https://github.com/echonest/remix); not a file
+    Skipping link https://github.com/security (from https://github.com/echonest/remix); not a file
+  Using version 1.6.1 (newest of versions: 1.6.1, 1.6.0, 1.5.0)
+  Downloading from URL http://pypi.python.org/packages/source/r/remix/remix-1.6.1.tar.gz#md5=6fb574ac572b0be6be4d53114183323b (from http://pypi.python.org/simple/remix/)
+  Running setup.py egg_info for package remix
+    running egg_info
+    creating pip-egg-info/remix.egg-info
+    writing pip-egg-info/remix.egg-info/PKG-INFO
+    writing top-level names to pip-egg-info/remix.egg-info/top_level.txt
+    writing dependency_links to pip-egg-info/remix.egg-info/dependency_links.txt
+    writing manifest file 'pip-egg-info/remix.egg-info/SOURCES.txt'
+    warning: manifest_maker: standard file '-c' not found
+    reading manifest file 'pip-egg-info/remix.egg-info/SOURCES.txt'
+    reading manifest template 'MANIFEST.in'
+    no previously-included directories found matching 'flash'
+    no previously-included directories found matching 'tests'
+    writing manifest file 'pip-egg-info/remix.egg-info/SOURCES.txt'
+  Source in ./build/remix has version 1.6.1, which satisfies requirement remix
+Installing collected packages: remix
+  Running setup.py install for remix
+    Running command /usr/bin/python -c "import setuptools; __file__='/home/vivek/CompBio/data/MSD/build/remix/setup.py'; execfile('/home/vivek/CompBio/data/MSD/build/remix/setup.py')" install --single-version-externally-managed --record /tmp/pip-vMNb_y-record/install-record.txt --install-headers /home/vivek/CompBio/data/MSD/lib/include
+    running install
+    running build
+    running build_py
+    creating build
+    creating build/lib.linux-x86_64-2.6
+    creating build/lib.linux-x86_64-2.6/echonest
+    copying src/echonest/__init__.py -> build/lib.linux-x86_64-2.6/echonest
+    copying src/echonest/video.py -> build/lib.linux-x86_64-2.6/echonest
+    copying src/echonest/selection.py -> build/lib.linux-x86_64-2.6/echonest
+    copying src/echonest/action.py -> build/lib.linux-x86_64-2.6/echonest
+    copying src/echonest/modify.py -> build/lib.linux-x86_64-2.6/echonest
+    copying src/echonest/sorting.py -> build/lib.linux-x86_64-2.6/echonest
+    copying src/echonest/audio.py -> build/lib.linux-x86_64-2.6/echonest
+    creating build/lib.linux-x86_64-2.6/echonest/support
+    copying src/echonest/support/__init__.py -> build/lib.linux-x86_64-2.6/echonest/support
+    creating build/lib.linux-x86_64-2.6/echonest/support/midi
+    copying src/echonest/support/midi/MidiInFile.py -> build/lib.linux-x86_64-2.6/echonest/support/midi
+    copying src/echonest/support/midi/MidiOutStream.py -> build/lib.linux-x86_64-2.6/echonest/support/midi
+    copying src/echonest/support/midi/__init__.py -> build/lib.linux-x86_64-2.6/echonest/support/midi
+    copying src/echonest/support/midi/example_print_channel_0.py -> build/lib.linux-x86_64-2.6/echonest/support/midi
+    copying src/echonest/support/midi/example_mimimal_type0.py -> build/lib.linux-x86_64-2.6/echonest/support/midi
+    copying src/echonest/support/midi/RawInstreamFile.py -> build/lib.linux-x86_64-2.6/echonest/support/midi
+    copying src/echonest/support/midi/EventDispatcher.py -> build/lib.linux-x86_64-2.6/echonest/support/midi
+    copying src/echonest/support/midi/MidiOutFile.py -> build/lib.linux-x86_64-2.6/echonest/support/midi
+    copying src/echonest/support/midi/constants.py -> build/lib.linux-x86_64-2.6/echonest/support/midi
+    copying src/echonest/support/midi/DataTypeConverters.py -> build/lib.linux-x86_64-2.6/echonest/support/midi
+    copying src/echonest/support/midi/RawOutstreamFile.py -> build/lib.linux-x86_64-2.6/echonest/support/midi
+    copying src/echonest/support/midi/example_print_events.py -> build/lib.linux-x86_64-2.6/echonest/support/midi
+    copying src/echonest/support/midi/MidiFileParser.py -> build/lib.linux-x86_64-2.6/echonest/support/midi
+    copying src/echonest/support/midi/example_print_file.py -> build/lib.linux-x86_64-2.6/echonest/support/midi
+    copying src/echonest/support/midi/MidiToText.py -> build/lib.linux-x86_64-2.6/echonest/support/midi
+    copying src/echonest/support/midi/MidiInStream.py -> build/lib.linux-x86_64-2.6/echonest/support/midi
+    copying src/echonest/support/midi/example_transpose_octave.py -> build/lib.linux-x86_64-2.6/echonest/support/midi
+    creating build/lib.linux-x86_64-2.6/pyechonest
+    copying pyechonest/pyechonest/proxies.py -> build/lib.linux-x86_64-2.6/pyechonest
+    copying pyechonest/pyechonest/artist.py -> build/lib.linux-x86_64-2.6/pyechonest
+    copying pyechonest/pyechonest/catalog.py -> build/lib.linux-x86_64-2.6/pyechonest
+    copying pyechonest/pyechonest/__init__.py -> build/lib.linux-x86_64-2.6/pyechonest
+    copying pyechonest/pyechonest/results.py -> build/lib.linux-x86_64-2.6/pyechonest
+    copying pyechonest/pyechonest/track.py -> build/lib.linux-x86_64-2.6/pyechonest
+    copying pyechonest/pyechonest/sandbox.py -> build/lib.linux-x86_64-2.6/pyechonest
+    copying pyechonest/pyechonest/config.py -> build/lib.linux-x86_64-2.6/pyechonest
+    copying pyechonest/pyechonest/util.py -> build/lib.linux-x86_64-2.6/pyechonest
+    copying pyechonest/pyechonest/song.py -> build/lib.linux-x86_64-2.6/pyechonest
+    copying pyechonest/pyechonest/playlist.py -> build/lib.linux-x86_64-2.6/pyechonest
+    running build_ext
+    building 'soundtouch' extension
+    creating build/temp.linux-x86_64-2.6
+    creating build/temp.linux-x86_64-2.6/external
+    creating build/temp.linux-x86_64-2.6/external/pysoundtouch14
+    creating build/temp.linux-x86_64-2.6/external/pysoundtouch14/libsoundtouch
+    gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/lib/python2.6/dist-packages/numpy/core/include -I/usr/lib/python2.6/dist-packages/numpy/numarray -I/usr/include/python2.6 -c external/pysoundtouch14/libsoundtouch/AAFilter.cpp -o build/temp.linux-x86_64-2.6/external/pysoundtouch14/libsoundtouch/AAFilter.o -fcheck-new -O3 -Wno-unused
+    cc1plus: warning: command line option "-Wstrict-prototypes" is valid for Ada/C/ObjC but not for C++
+    gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/lib/python2.6/dist-packages/numpy/core/include -I/usr/lib/python2.6/dist-packages/numpy/numarray -I/usr/include/python2.6 -c external/pysoundtouch14/libsoundtouch/FIFOSampleBuffer.cpp -o build/temp.linux-x86_64-2.6/external/pysoundtouch14/libsoundtouch/FIFOSampleBuffer.o -fcheck-new -O3 -Wno-unused
+    cc1plus: warning: command line option "-Wstrict-prototypes" is valid for Ada/C/ObjC but not for C++
+    gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/lib/python2.6/dist-packages/numpy/core/include -I/usr/lib/python2.6/dist-packages/numpy/numarray -I/usr/include/python2.6 -c external/pysoundtouch14/libsoundtouch/FIRFilter.cpp -o build/temp.linux-x86_64-2.6/external/pysoundtouch14/libsoundtouch/FIRFilter.o -fcheck-new -O3 -Wno-unused
+    cc1plus: warning: command line option "-Wstrict-prototypes" is valid for Ada/C/ObjC but not for C++
+    gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/lib/python2.6/dist-packages/numpy/core/include -I/usr/lib/python2.6/dist-packages/numpy/numarray -I/usr/include/python2.6 -c external/pysoundtouch14/libsoundtouch/RateTransposer.cpp -o build/temp.linux-x86_64-2.6/external/pysoundtouch14/libsoundtouch/RateTransposer.o -fcheck-new -O3 -Wno-unused
+    cc1plus: warning: command line option "-Wstrict-prototypes" is valid for Ada/C/ObjC but not for C++
+    gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/lib/python2.6/dist-packages/numpy/core/include -I/usr/lib/python2.6/dist-packages/numpy/numarray -I/usr/include/python2.6 -c external/pysoundtouch14/libsoundtouch/SoundTouch.cpp -o build/temp.linux-x86_64-2.6/external/pysoundtouch14/libsoundtouch/SoundTouch.o -fcheck-new -O3 -Wno-unused
+    cc1plus: warning: command line option "-Wstrict-prototypes" is valid for Ada/C/ObjC but not for C++
+    gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/lib/python2.6/dist-packages/numpy/core/include -I/usr/lib/python2.6/dist-packages/numpy/numarray -I/usr/include/python2.6 -c external/pysoundtouch14/libsoundtouch/TDStretch.cpp -o build/temp.linux-x86_64-2.6/external/pysoundtouch14/libsoundtouch/TDStretch.o -fcheck-new -O3 -Wno-unused
+    cc1plus: warning: command line option "-Wstrict-prototypes" is valid for Ada/C/ObjC but not for C++
+    gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/lib/python2.6/dist-packages/numpy/core/include -I/usr/lib/python2.6/dist-packages/numpy/numarray -I/usr/include/python2.6 -c external/pysoundtouch14/libsoundtouch/BPMDetect.cpp -o build/temp.linux-x86_64-2.6/external/pysoundtouch14/libsoundtouch/BPMDetect.o -fcheck-new -O3 -Wno-unused
+    cc1plus: warning: command line option "-Wstrict-prototypes" is valid for Ada/C/ObjC but not for C++
+    gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/lib/python2.6/dist-packages/numpy/core/include -I/usr/lib/python2.6/dist-packages/numpy/numarray -I/usr/include/python2.6 -c external/pysoundtouch14/libsoundtouch/PeakFinder.cpp -o build/temp.linux-x86_64-2.6/external/pysoundtouch14/libsoundtouch/PeakFinder.o -fcheck-new -O3 -Wno-unused
+    cc1plus: warning: command line option "-Wstrict-prototypes" is valid for Ada/C/ObjC but not for C++
+    gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/lib/python2.6/dist-packages/numpy/core/include -I/usr/lib/python2.6/dist-packages/numpy/numarray -I/usr/include/python2.6 -c external/pysoundtouch14/libsoundtouch/mmx_optimized.cpp -o build/temp.linux-x86_64-2.6/external/pysoundtouch14/libsoundtouch/mmx_optimized.o -fcheck-new -O3 -Wno-unused
+    cc1plus: warning: command line option "-Wstrict-prototypes" is valid for Ada/C/ObjC but not for C++
+    gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/lib/python2.6/dist-packages/numpy/core/include -I/usr/lib/python2.6/dist-packages/numpy/numarray -I/usr/include/python2.6 -c external/pysoundtouch14/libsoundtouch/sse_optimized.cpp -o build/temp.linux-x86_64-2.6/external/pysoundtouch14/libsoundtouch/sse_optimized.o -fcheck-new -O3 -Wno-unused
+    cc1plus: warning: command line option "-Wstrict-prototypes" is valid for Ada/C/ObjC but not for C++
+    gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/lib/python2.6/dist-packages/numpy/core/include -I/usr/lib/python2.6/dist-packages/numpy/numarray -I/usr/include/python2.6 -c external/pysoundtouch14/libsoundtouch/cpu_detect_x86_gcc.cpp -o build/temp.linux-x86_64-2.6/external/pysoundtouch14/libsoundtouch/cpu_detect_x86_gcc.o -fcheck-new -O3 -Wno-unused
+    cc1plus: warning: command line option "-Wstrict-prototypes" is valid for Ada/C/ObjC but not for C++
+    gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/lib/python2.6/dist-packages/numpy/core/include -I/usr/lib/python2.6/dist-packages/numpy/numarray -I/usr/include/python2.6 -c external/pysoundtouch14/soundtouchmodule.cpp -o build/temp.linux-x86_64-2.6/external/pysoundtouch14/soundtouchmodule.o -fcheck-new -O3 -Wno-unused
+    cc1plus: warning: command line option "-Wstrict-prototypes" is valid for Ada/C/ObjC but not for C++
+    external/pysoundtouch14/soundtouchmodule.cpp:25:20: error: Python.h: No such file or directory
+    In file included from /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:61,
+                     from /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/arrayobject.h:14,
+                     from external/pysoundtouch14/soundtouchmodule.cpp:26:
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/npy_common.h:71:2: error: #error Must use Python with unicode enabled.
+    In file included from /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/arrayobject.h:14,
+                     from external/pysoundtouch14/soundtouchmodule.cpp:26:
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:181: error: ‘Py_intptr_t’ does not name a type
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:182: error: ‘Py_uintptr_t’ does not name a type
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:284: error: expected initializer before ‘*’ token
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:285: error: typedef ‘PyArray_SetItemFunc’ is initialized (use decltype instead)
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:285: error: ‘PyObject’ was not declared in this scope
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:285: error: expected primary-expression before ‘,’ token
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:285: error: expected primary-expression before ‘void’
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:285: error: expected primary-expression before ‘void’
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:287: error: ‘npy_intp’ has not been declared
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:287: error: ‘npy_intp’ has not been declared
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:288: error: ‘npy_intp’ has not been declared
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:298: error: ‘npy_intp’ has not been declared
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:298: error: ‘npy_intp’ has not been declared
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:300: error: ‘npy_intp’ has not been declared
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:300: error: ‘npy_intp’ has not been declared
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:301: error: ‘npy_intp’ has not been declared
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:303: error: ‘npy_intp’ has not been declared
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:308: error: typedef ‘PyArray_ScanFunc’ is initialized (use decltype instead)
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:308: error: ‘FILE’ was not declared in this scope
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:308: error: ‘fp’ was not declared in this scope
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:308: error: expected primary-expression before ‘void’
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:309: error: expected primary-expression before ‘char’
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:309: error: expected primary-expression before ‘struct’
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:313: error: ‘npy_intp’ has not been declared
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:315: error: ‘npy_intp’ has not been declared
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:316: error: ‘npy_intp’ has not been declared
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:316: error: ‘npy_intp’ has not been declared
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:318: error: ‘npy_intp’ has not been declared
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:322: error: ‘npy_intp’ has not been declared
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:324: error: ‘npy_intp’ has not been declared
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:325: error: ‘npy_intp’ has not been declared
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:326: error: ‘npy_intp’ has not been declared
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:327: error: ‘npy_intp’ has not been declared
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:327: error: ‘npy_intp’ has not been declared
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:328: error: ‘npy_intp’ has not been declared
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:328: error: ‘npy_intp’ has not been declared
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:332: error: ISO C++ forbids declaration of ‘npy_intp’ with no type
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:332: error: expected ‘;’ before ‘*’ token
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:345: error: ISO C++ forbids declaration of ‘PyArray_GetItemFunc’ with no type
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:345: error: expected ‘;’ before ‘*’ token
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:346: error: ISO C++ forbids declaration of ‘PyArray_SetItemFunc’ with no type
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:346: error: expected ‘;’ before ‘*’ token
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:371: error: ISO C++ forbids declaration of ‘PyArray_ScanFunc’ with no type
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:371: error: expected ‘;’ before ‘*’ token
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:397: error: ISO C++ forbids declaration of ‘PyObject’ with no type
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:397: error: expected ‘;’ before ‘*’ token
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:446: error: ‘PyObject_HEAD’ does not name a type
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:465: error: ISO C++ forbids declaration of ‘PyObject’ with no type
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:465: error: expected ‘;’ before ‘*’ token
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:469: error: ISO C++ forbids declaration of ‘PyObject’ with no type
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:469: error: expected ‘;’ before ‘*’ token
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:478: error: ISO C++ forbids declaration of ‘PyObject’ with no type
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:478: error: expected ‘;’ before ‘*’ token
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:488: error: ISO C++ forbids declaration of ‘PyObject_HEAD’ with no type
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:489: error: expected ‘;’ before ‘char’
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:491: error: ISO C++ forbids declaration of ‘npy_intp’ with no type
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:491: error: expected ‘;’ before ‘*’ token
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:492: error: ISO C++ forbids declaration of ‘npy_intp’ with no type
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:492: error: expected ‘;’ before ‘*’ token
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:494: error: ISO C++ forbids declaration of ‘PyObject’ with no type
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:494: error: expected ‘;’ before ‘*’ token
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:504: error: ISO C++ forbids declaration of ‘PyObject’ with no type
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:504: error: expected ‘;’ before ‘*’ token
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:513: error: ‘PyObject_HEAD’ does not name a type
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:521: error: ‘PyObject_HEAD’ does not name a type
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:524: error: ‘npy_intp’ does not name a type
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:528: error: ‘PyObject’ has not been declared
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:670: error: ISO C++ forbids declaration of ‘PyObject_HEAD’ with no type
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:671: error: expected ‘;’ before ‘int’
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:672: error: ‘npy_intp’ does not name a type
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:673: error: ‘npy_intp’ does not name a type
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:674: error: ‘npy_intp’ does not name a type
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:675: error: ‘npy_intp’ does not name a type
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:676: error: ‘npy_intp’ does not name a type
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:677: error: ‘npy_intp’ does not name a type
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:817: error: ISO C++ forbids declaration of ‘PyObject_HEAD’ with no type
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:818: error: expected ‘;’ before ‘int’
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:819: error: ‘npy_intp’ does not name a type
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:820: error: ‘npy_intp’ does not name a type
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:822: error: ‘npy_intp’ does not name a type
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:871: error: ISO C++ forbids declaration of ‘PyObject_HEAD’ with no type
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:875: error: expected ‘;’ before ‘int’
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:877: error: ‘npy_intp’ does not name a type
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:879: error: ‘npy_intp’ does not name a type
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:881: error: ‘npy_intp’ does not name a type
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:897: error: ‘npy_intp’ does not name a type
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:899: error: ISO C++ forbids declaration of ‘PyObject’ with no type
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:899: error: expected ‘;’ before ‘*’ token
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:1084: error: ISO C++ forbids declaration of ‘npy_intp’ with no type
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:1084: error: expected ‘;’ before ‘*’ token
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:1085: error: ISO C++ forbids declaration of ‘npy_intp’ with no type
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:1085: error: expected ‘;’ before ‘*’ token
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:1087: error: ISO C++ forbids declaration of ‘PyObject’ with no type
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:1087: error: expected ‘;’ before ‘*’ token
+    In file included from /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:1099,
+                     from /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/arrayobject.h:14,
+                     from external/pysoundtouch14/soundtouchmodule.cpp:26:
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/__multiarray_api.h:407: error: ‘NULL’ was not declared in this scope
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/__multiarray_api.h: In function ‘int _import_array()’:
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/__multiarray_api.h:971: error: ‘PyObject’ was not declared in this scope
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/__multiarray_api.h:971: error: ‘numpy’ was not declared in this scope
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/__multiarray_api.h:971: error: ‘PyImport_ImportModule’ was not declared in this scope
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/__multiarray_api.h:972: error: ‘c_api’ was not declared in this scope
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/__multiarray_api.h:972: error: ‘NULL’ was not declared in this scope
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/__multiarray_api.h:974: error: ‘PyObject_GetAttrString’ was not declared in this scope
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/__multiarray_api.h:975: error: ‘Py_DECREF’ was not declared in this scope
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/__multiarray_api.h:976: error: ‘PyCObject_Check’ was not declared in this scope
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/__multiarray_api.h:977: error: ‘PyCObject_AsVoidPtr’ was not declared in this scope
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/__multiarray_api.h:979: error: ‘Py_DECREF’ was not declared in this scope
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/__multiarray_api.h:984: error: ‘PyExc_RuntimeError’ was not declared in this scope
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/__multiarray_api.h:986: error: ‘PyErr_Format’ was not declared in this scope
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/__multiarray_api.h:996: error: ‘PyExc_RuntimeError’ was not declared in this scope
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/__multiarray_api.h:996: error: ‘PyErr_Format’ was not declared in this scope
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/__multiarray_api.h:1007: error: ‘PyExc_RuntimeError’ was not declared in this scope
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/__multiarray_api.h:1008: error: ‘PyErr_Format’ was not declared in this scope
+    In file included from /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/libnumarray.h:8,
+                     from external/pysoundtouch14/soundtouchmodule.cpp:27:
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/arraybase.h: At global scope:
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/arraybase.h:8: error: ‘npy_intp’ does not name a type
+    In file included from /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/libnumarray.h:12,
+                     from external/pysoundtouch14/soundtouchmodule.cpp:27:
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/cfunc.h:4: error: expected initializer before ‘*’ token
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/cfunc.h:8: error: typedef ‘CFUNCfromPyValue’ is initialized (use decltype instead)
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/cfunc.h:8: error: ‘PyObject’ was not declared in this scope
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/cfunc.h:8: error: expected primary-expression before ‘,’ token
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/cfunc.h:8: error: expected primary-expression before ‘void’
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/cfunc.h:9: error: ‘maybelong’ has not been declared
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/cfunc.h:10: error: ‘maybelong’ has not been declared
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/cfunc.h:10: error: ‘maybelong’ has not been declared
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/cfunc.h:12: error: typedef ‘CFUNC_STRIDED_FUNC’ is initialized (use decltype instead)
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/cfunc.h:12: error: ‘PyObject’ was not declared in this scope
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/cfunc.h:12: error: expected primary-expression before ‘,’ token
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/cfunc.h:12: error: expected primary-expression before ‘long’
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/cfunc.h:12: error: expected primary-expression before ‘*’ token
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/cfunc.h:12: error: expected primary-expression before ‘,’ token
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/cfunc.h:13: error: expected primary-expression before ‘char’
+    /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/cfunc.h:37: error: ‘PyObject_HEAD’ does not name a type
+    external/pysoundtouch14/soundtouchmodule.cpp:34: error: expected initializer before ‘*’ token
+    external/pysoundtouch14/soundtouchmodule.cpp:56: error: ‘PyObject_HEAD’ does not name a type
+    external/pysoundtouch14/soundtouchmodule.cpp: In function ‘void SoundTouch_dealloc(SoundTouch*)’:
+    external/pysoundtouch14/soundtouchmodule.cpp:64: error: ‘struct SoundTouch’ has no member named ‘soundtouch’
+    external/pysoundtouch14/soundtouchmodule.cpp:65: error: ‘struct SoundTouch’ has no member named ‘ob_type’
+    external/pysoundtouch14/soundtouchmodule.cpp:65: error: ‘PyObject’ was not declared in this scope
+    external/pysoundtouch14/soundtouchmodule.cpp:65: error: expected primary-expression before ‘)’ token
+    external/pysoundtouch14/soundtouchmodule.cpp: At global scope:
+    external/pysoundtouch14/soundtouchmodule.cpp:69: error: expected initializer before ‘*’ token
+    external/pysoundtouch14/soundtouchmodule.cpp:81: error: ‘PyObject’ has not been declared
+    external/pysoundtouch14/soundtouchmodule.cpp:81: error: ‘PyObject’ has not been declared
+    external/pysoundtouch14/soundtouchmodule.cpp:87: error: expected initializer before ‘*’ token
+    error: command 'gcc' failed with exit status 1
+    Complete output from command /usr/bin/python -c "import setuptools; __file__='/home/vivek/CompBio/data/MSD/build/remix/setup.py'; execfile('/home/vivek/CompBio/data/MSD/build/remix/setup.py')" install --single-version-externally-managed --record /tmp/pip-vMNb_y-record/install-record.txt --install-headers /home/vivek/CompBio/data/MSD/lib/include:
+    running install
+
+running build
+
+running build_py
+
+creating build
+
+creating build/lib.linux-x86_64-2.6
+
+creating build/lib.linux-x86_64-2.6/echonest
+
+copying src/echonest/__init__.py -> build/lib.linux-x86_64-2.6/echonest
+
+copying src/echonest/video.py -> build/lib.linux-x86_64-2.6/echonest
+
+copying src/echonest/selection.py -> build/lib.linux-x86_64-2.6/echonest
+
+copying src/echonest/action.py -> build/lib.linux-x86_64-2.6/echonest
+
+copying src/echonest/modify.py -> build/lib.linux-x86_64-2.6/echonest
+
+copying src/echonest/sorting.py -> build/lib.linux-x86_64-2.6/echonest
+
+copying src/echonest/audio.py -> build/lib.linux-x86_64-2.6/echonest
+
+creating build/lib.linux-x86_64-2.6/echonest/support
+
+copying src/echonest/support/__init__.py -> build/lib.linux-x86_64-2.6/echonest/support
+
+creating build/lib.linux-x86_64-2.6/echonest/support/midi
+
+copying src/echonest/support/midi/MidiInFile.py -> build/lib.linux-x86_64-2.6/echonest/support/midi
+
+copying src/echonest/support/midi/MidiOutStream.py -> build/lib.linux-x86_64-2.6/echonest/support/midi
+
+copying src/echonest/support/midi/__init__.py -> build/lib.linux-x86_64-2.6/echonest/support/midi
+
+copying src/echonest/support/midi/example_print_channel_0.py -> build/lib.linux-x86_64-2.6/echonest/support/midi
+
+copying src/echonest/support/midi/example_mimimal_type0.py -> build/lib.linux-x86_64-2.6/echonest/support/midi
+
+copying src/echonest/support/midi/RawInstreamFile.py -> build/lib.linux-x86_64-2.6/echonest/support/midi
+
+copying src/echonest/support/midi/EventDispatcher.py -> build/lib.linux-x86_64-2.6/echonest/support/midi
+
+copying src/echonest/support/midi/MidiOutFile.py -> build/lib.linux-x86_64-2.6/echonest/support/midi
+
+copying src/echonest/support/midi/constants.py -> build/lib.linux-x86_64-2.6/echonest/support/midi
+
+copying src/echonest/support/midi/DataTypeConverters.py -> build/lib.linux-x86_64-2.6/echonest/support/midi
+
+copying src/echonest/support/midi/RawOutstreamFile.py -> build/lib.linux-x86_64-2.6/echonest/support/midi
+
+copying src/echonest/support/midi/example_print_events.py -> build/lib.linux-x86_64-2.6/echonest/support/midi
+
+copying src/echonest/support/midi/MidiFileParser.py -> build/lib.linux-x86_64-2.6/echonest/support/midi
+
+copying src/echonest/support/midi/example_print_file.py -> build/lib.linux-x86_64-2.6/echonest/support/midi
+
+copying src/echonest/support/midi/MidiToText.py -> build/lib.linux-x86_64-2.6/echonest/support/midi
+
+copying src/echonest/support/midi/MidiInStream.py -> build/lib.linux-x86_64-2.6/echonest/support/midi
+
+copying src/echonest/support/midi/example_transpose_octave.py -> build/lib.linux-x86_64-2.6/echonest/support/midi
+
+creating build/lib.linux-x86_64-2.6/pyechonest
+
+copying pyechonest/pyechonest/proxies.py -> build/lib.linux-x86_64-2.6/pyechonest
+
+copying pyechonest/pyechonest/artist.py -> build/lib.linux-x86_64-2.6/pyechonest
+
+copying pyechonest/pyechonest/catalog.py -> build/lib.linux-x86_64-2.6/pyechonest
+
+copying pyechonest/pyechonest/__init__.py -> build/lib.linux-x86_64-2.6/pyechonest
+
+copying pyechonest/pyechonest/results.py -> build/lib.linux-x86_64-2.6/pyechonest
+
+copying pyechonest/pyechonest/track.py -> build/lib.linux-x86_64-2.6/pyechonest
+
+copying pyechonest/pyechonest/sandbox.py -> build/lib.linux-x86_64-2.6/pyechonest
+
+copying pyechonest/pyechonest/config.py -> build/lib.linux-x86_64-2.6/pyechonest
+
+copying pyechonest/pyechonest/util.py -> build/lib.linux-x86_64-2.6/pyechonest
+
+copying pyechonest/pyechonest/song.py -> build/lib.linux-x86_64-2.6/pyechonest
+
+copying pyechonest/pyechonest/playlist.py -> build/lib.linux-x86_64-2.6/pyechonest
+
+running build_ext
+
+building 'soundtouch' extension
+
+creating build/temp.linux-x86_64-2.6
+
+creating build/temp.linux-x86_64-2.6/external
+
+creating build/temp.linux-x86_64-2.6/external/pysoundtouch14
+
+creating build/temp.linux-x86_64-2.6/external/pysoundtouch14/libsoundtouch
+
+gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/lib/python2.6/dist-packages/numpy/core/include -I/usr/lib/python2.6/dist-packages/numpy/numarray -I/usr/include/python2.6 -c external/pysoundtouch14/libsoundtouch/AAFilter.cpp -o build/temp.linux-x86_64-2.6/external/pysoundtouch14/libsoundtouch/AAFilter.o -fcheck-new -O3 -Wno-unused
+
+cc1plus: warning: command line option "-Wstrict-prototypes" is valid for Ada/C/ObjC but not for C++
+
+gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/lib/python2.6/dist-packages/numpy/core/include -I/usr/lib/python2.6/dist-packages/numpy/numarray -I/usr/include/python2.6 -c external/pysoundtouch14/libsoundtouch/FIFOSampleBuffer.cpp -o build/temp.linux-x86_64-2.6/external/pysoundtouch14/libsoundtouch/FIFOSampleBuffer.o -fcheck-new -O3 -Wno-unused
+
+cc1plus: warning: command line option "-Wstrict-prototypes" is valid for Ada/C/ObjC but not for C++
+
+gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/lib/python2.6/dist-packages/numpy/core/include -I/usr/lib/python2.6/dist-packages/numpy/numarray -I/usr/include/python2.6 -c external/pysoundtouch14/libsoundtouch/FIRFilter.cpp -o build/temp.linux-x86_64-2.6/external/pysoundtouch14/libsoundtouch/FIRFilter.o -fcheck-new -O3 -Wno-unused
+
+cc1plus: warning: command line option "-Wstrict-prototypes" is valid for Ada/C/ObjC but not for C++
+
+gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/lib/python2.6/dist-packages/numpy/core/include -I/usr/lib/python2.6/dist-packages/numpy/numarray -I/usr/include/python2.6 -c external/pysoundtouch14/libsoundtouch/RateTransposer.cpp -o build/temp.linux-x86_64-2.6/external/pysoundtouch14/libsoundtouch/RateTransposer.o -fcheck-new -O3 -Wno-unused
+
+cc1plus: warning: command line option "-Wstrict-prototypes" is valid for Ada/C/ObjC but not for C++
+
+gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/lib/python2.6/dist-packages/numpy/core/include -I/usr/lib/python2.6/dist-packages/numpy/numarray -I/usr/include/python2.6 -c external/pysoundtouch14/libsoundtouch/SoundTouch.cpp -o build/temp.linux-x86_64-2.6/external/pysoundtouch14/libsoundtouch/SoundTouch.o -fcheck-new -O3 -Wno-unused
+
+cc1plus: warning: command line option "-Wstrict-prototypes" is valid for Ada/C/ObjC but not for C++
+
+gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/lib/python2.6/dist-packages/numpy/core/include -I/usr/lib/python2.6/dist-packages/numpy/numarray -I/usr/include/python2.6 -c external/pysoundtouch14/libsoundtouch/TDStretch.cpp -o build/temp.linux-x86_64-2.6/external/pysoundtouch14/libsoundtouch/TDStretch.o -fcheck-new -O3 -Wno-unused
+
+cc1plus: warning: command line option "-Wstrict-prototypes" is valid for Ada/C/ObjC but not for C++
+
+gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/lib/python2.6/dist-packages/numpy/core/include -I/usr/lib/python2.6/dist-packages/numpy/numarray -I/usr/include/python2.6 -c external/pysoundtouch14/libsoundtouch/BPMDetect.cpp -o build/temp.linux-x86_64-2.6/external/pysoundtouch14/libsoundtouch/BPMDetect.o -fcheck-new -O3 -Wno-unused
+
+cc1plus: warning: command line option "-Wstrict-prototypes" is valid for Ada/C/ObjC but not for C++
+
+gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/lib/python2.6/dist-packages/numpy/core/include -I/usr/lib/python2.6/dist-packages/numpy/numarray -I/usr/include/python2.6 -c external/pysoundtouch14/libsoundtouch/PeakFinder.cpp -o build/temp.linux-x86_64-2.6/external/pysoundtouch14/libsoundtouch/PeakFinder.o -fcheck-new -O3 -Wno-unused
+
+cc1plus: warning: command line option "-Wstrict-prototypes" is valid for Ada/C/ObjC but not for C++
+
+gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/lib/python2.6/dist-packages/numpy/core/include -I/usr/lib/python2.6/dist-packages/numpy/numarray -I/usr/include/python2.6 -c external/pysoundtouch14/libsoundtouch/mmx_optimized.cpp -o build/temp.linux-x86_64-2.6/external/pysoundtouch14/libsoundtouch/mmx_optimized.o -fcheck-new -O3 -Wno-unused
+
+cc1plus: warning: command line option "-Wstrict-prototypes" is valid for Ada/C/ObjC but not for C++
+
+gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/lib/python2.6/dist-packages/numpy/core/include -I/usr/lib/python2.6/dist-packages/numpy/numarray -I/usr/include/python2.6 -c external/pysoundtouch14/libsoundtouch/sse_optimized.cpp -o build/temp.linux-x86_64-2.6/external/pysoundtouch14/libsoundtouch/sse_optimized.o -fcheck-new -O3 -Wno-unused
+
+cc1plus: warning: command line option "-Wstrict-prototypes" is valid for Ada/C/ObjC but not for C++
+
+gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/lib/python2.6/dist-packages/numpy/core/include -I/usr/lib/python2.6/dist-packages/numpy/numarray -I/usr/include/python2.6 -c external/pysoundtouch14/libsoundtouch/cpu_detect_x86_gcc.cpp -o build/temp.linux-x86_64-2.6/external/pysoundtouch14/libsoundtouch/cpu_detect_x86_gcc.o -fcheck-new -O3 -Wno-unused
+
+cc1plus: warning: command line option "-Wstrict-prototypes" is valid for Ada/C/ObjC but not for C++
+
+gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/lib/python2.6/dist-packages/numpy/core/include -I/usr/lib/python2.6/dist-packages/numpy/numarray -I/usr/include/python2.6 -c external/pysoundtouch14/soundtouchmodule.cpp -o build/temp.linux-x86_64-2.6/external/pysoundtouch14/soundtouchmodule.o -fcheck-new -O3 -Wno-unused
+
+cc1plus: warning: command line option "-Wstrict-prototypes" is valid for Ada/C/ObjC but not for C++
+
+external/pysoundtouch14/soundtouchmodule.cpp:25:20: error: Python.h: No such file or directory
+
+In file included from /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:61,
+
+                 from /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/arrayobject.h:14,
+
+                 from external/pysoundtouch14/soundtouchmodule.cpp:26:
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/npy_common.h:71:2: error: #error Must use Python with unicode enabled.
+
+In file included from /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/arrayobject.h:14,
+
+                 from external/pysoundtouch14/soundtouchmodule.cpp:26:
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:181: error: ‘Py_intptr_t’ does not name a type
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:182: error: ‘Py_uintptr_t’ does not name a type
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:284: error: expected initializer before ‘*’ token
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:285: error: typedef ‘PyArray_SetItemFunc’ is initialized (use decltype instead)
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:285: error: ‘PyObject’ was not declared in this scope
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:285: error: expected primary-expression before ‘,’ token
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:285: error: expected primary-expression before ‘void’
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:285: error: expected primary-expression before ‘void’
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:287: error: ‘npy_intp’ has not been declared
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:287: error: ‘npy_intp’ has not been declared
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:288: error: ‘npy_intp’ has not been declared
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:298: error: ‘npy_intp’ has not been declared
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:298: error: ‘npy_intp’ has not been declared
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:300: error: ‘npy_intp’ has not been declared
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:300: error: ‘npy_intp’ has not been declared
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:301: error: ‘npy_intp’ has not been declared
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:303: error: ‘npy_intp’ has not been declared
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:308: error: typedef ‘PyArray_ScanFunc’ is initialized (use decltype instead)
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:308: error: ‘FILE’ was not declared in this scope
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:308: error: ‘fp’ was not declared in this scope
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:308: error: expected primary-expression before ‘void’
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:309: error: expected primary-expression before ‘char’
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:309: error: expected primary-expression before ‘struct’
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:313: error: ‘npy_intp’ has not been declared
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:315: error: ‘npy_intp’ has not been declared
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:316: error: ‘npy_intp’ has not been declared
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:316: error: ‘npy_intp’ has not been declared
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:318: error: ‘npy_intp’ has not been declared
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:322: error: ‘npy_intp’ has not been declared
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:324: error: ‘npy_intp’ has not been declared
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:325: error: ‘npy_intp’ has not been declared
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:326: error: ‘npy_intp’ has not been declared
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:327: error: ‘npy_intp’ has not been declared
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:327: error: ‘npy_intp’ has not been declared
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:328: error: ‘npy_intp’ has not been declared
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:328: error: ‘npy_intp’ has not been declared
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:332: error: ISO C++ forbids declaration of ‘npy_intp’ with no type
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:332: error: expected ‘;’ before ‘*’ token
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:345: error: ISO C++ forbids declaration of ‘PyArray_GetItemFunc’ with no type
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:345: error: expected ‘;’ before ‘*’ token
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:346: error: ISO C++ forbids declaration of ‘PyArray_SetItemFunc’ with no type
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:346: error: expected ‘;’ before ‘*’ token
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:371: error: ISO C++ forbids declaration of ‘PyArray_ScanFunc’ with no type
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:371: error: expected ‘;’ before ‘*’ token
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:397: error: ISO C++ forbids declaration of ‘PyObject’ with no type
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:397: error: expected ‘;’ before ‘*’ token
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:446: error: ‘PyObject_HEAD’ does not name a type
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:465: error: ISO C++ forbids declaration of ‘PyObject’ with no type
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:465: error: expected ‘;’ before ‘*’ token
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:469: error: ISO C++ forbids declaration of ‘PyObject’ with no type
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:469: error: expected ‘;’ before ‘*’ token
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:478: error: ISO C++ forbids declaration of ‘PyObject’ with no type
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:478: error: expected ‘;’ before ‘*’ token
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:488: error: ISO C++ forbids declaration of ‘PyObject_HEAD’ with no type
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:489: error: expected ‘;’ before ‘char’
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:491: error: ISO C++ forbids declaration of ‘npy_intp’ with no type
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:491: error: expected ‘;’ before ‘*’ token
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:492: error: ISO C++ forbids declaration of ‘npy_intp’ with no type
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:492: error: expected ‘;’ before ‘*’ token
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:494: error: ISO C++ forbids declaration of ‘PyObject’ with no type
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:494: error: expected ‘;’ before ‘*’ token
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:504: error: ISO C++ forbids declaration of ‘PyObject’ with no type
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:504: error: expected ‘;’ before ‘*’ token
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:513: error: ‘PyObject_HEAD’ does not name a type
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:521: error: ‘PyObject_HEAD’ does not name a type
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:524: error: ‘npy_intp’ does not name a type
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:528: error: ‘PyObject’ has not been declared
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:670: error: ISO C++ forbids declaration of ‘PyObject_HEAD’ with no type
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:671: error: expected ‘;’ before ‘int’
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:672: error: ‘npy_intp’ does not name a type
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:673: error: ‘npy_intp’ does not name a type
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:674: error: ‘npy_intp’ does not name a type
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:675: error: ‘npy_intp’ does not name a type
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:676: error: ‘npy_intp’ does not name a type
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:677: error: ‘npy_intp’ does not name a type
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:817: error: ISO C++ forbids declaration of ‘PyObject_HEAD’ with no type
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:818: error: expected ‘;’ before ‘int’
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:819: error: ‘npy_intp’ does not name a type
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:820: error: ‘npy_intp’ does not name a type
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:822: error: ‘npy_intp’ does not name a type
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:871: error: ISO C++ forbids declaration of ‘PyObject_HEAD’ with no type
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:875: error: expected ‘;’ before ‘int’
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:877: error: ‘npy_intp’ does not name a type
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:879: error: ‘npy_intp’ does not name a type
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:881: error: ‘npy_intp’ does not name a type
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:897: error: ‘npy_intp’ does not name a type
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:899: error: ISO C++ forbids declaration of ‘PyObject’ with no type
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:899: error: expected ‘;’ before ‘*’ token
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:1084: error: ISO C++ forbids declaration of ‘npy_intp’ with no type
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:1084: error: expected ‘;’ before ‘*’ token
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:1085: error: ISO C++ forbids declaration of ‘npy_intp’ with no type
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:1085: error: expected ‘;’ before ‘*’ token
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:1087: error: ISO C++ forbids declaration of ‘PyObject’ with no type
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:1087: error: expected ‘;’ before ‘*’ token
+
+In file included from /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/ndarrayobject.h:1099,
+
+                 from /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/arrayobject.h:14,
+
+                 from external/pysoundtouch14/soundtouchmodule.cpp:26:
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/__multiarray_api.h:407: error: ‘NULL’ was not declared in this scope
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/__multiarray_api.h: In function ‘int _import_array()’:
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/__multiarray_api.h:971: error: ‘PyObject’ was not declared in this scope
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/__multiarray_api.h:971: error: ‘numpy’ was not declared in this scope
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/__multiarray_api.h:971: error: ‘PyImport_ImportModule’ was not declared in this scope
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/__multiarray_api.h:972: error: ‘c_api’ was not declared in this scope
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/__multiarray_api.h:972: error: ‘NULL’ was not declared in this scope
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/__multiarray_api.h:974: error: ‘PyObject_GetAttrString’ was not declared in this scope
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/__multiarray_api.h:975: error: ‘Py_DECREF’ was not declared in this scope
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/__multiarray_api.h:976: error: ‘PyCObject_Check’ was not declared in this scope
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/__multiarray_api.h:977: error: ‘PyCObject_AsVoidPtr’ was not declared in this scope
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/__multiarray_api.h:979: error: ‘Py_DECREF’ was not declared in this scope
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/__multiarray_api.h:984: error: ‘PyExc_RuntimeError’ was not declared in this scope
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/__multiarray_api.h:986: error: ‘PyErr_Format’ was not declared in this scope
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/__multiarray_api.h:996: error: ‘PyExc_RuntimeError’ was not declared in this scope
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/__multiarray_api.h:996: error: ‘PyErr_Format’ was not declared in this scope
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/__multiarray_api.h:1007: error: ‘PyExc_RuntimeError’ was not declared in this scope
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/__multiarray_api.h:1008: error: ‘PyErr_Format’ was not declared in this scope
+
+In file included from /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/libnumarray.h:8,
+
+                 from external/pysoundtouch14/soundtouchmodule.cpp:27:
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/arraybase.h: At global scope:
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/arraybase.h:8: error: ‘npy_intp’ does not name a type
+
+In file included from /usr/lib/python2.6/dist-packages/numpy/core/include/numpy/libnumarray.h:12,
+
+                 from external/pysoundtouch14/soundtouchmodule.cpp:27:
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/cfunc.h:4: error: expected initializer before ‘*’ token
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/cfunc.h:8: error: typedef ‘CFUNCfromPyValue’ is initialized (use decltype instead)
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/cfunc.h:8: error: ‘PyObject’ was not declared in this scope
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/cfunc.h:8: error: expected primary-expression before ‘,’ token
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/cfunc.h:8: error: expected primary-expression before ‘void’
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/cfunc.h:9: error: ‘maybelong’ has not been declared
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/cfunc.h:10: error: ‘maybelong’ has not been declared
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/cfunc.h:10: error: ‘maybelong’ has not been declared
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/cfunc.h:12: error: typedef ‘CFUNC_STRIDED_FUNC’ is initialized (use decltype instead)
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/cfunc.h:12: error: ‘PyObject’ was not declared in this scope
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/cfunc.h:12: error: expected primary-expression before ‘,’ token
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/cfunc.h:12: error: expected primary-expression before ‘long’
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/cfunc.h:12: error: expected primary-expression before ‘*’ token
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/cfunc.h:12: error: expected primary-expression before ‘,’ token
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/cfunc.h:13: error: expected primary-expression before ‘char’
+
+/usr/lib/python2.6/dist-packages/numpy/core/include/numpy/cfunc.h:37: error: ‘PyObject_HEAD’ does not name a type
+
+external/pysoundtouch14/soundtouchmodule.cpp:34: error: expected initializer before ‘*’ token
+
+external/pysoundtouch14/soundtouchmodule.cpp:56: error: ‘PyObject_HEAD’ does not name a type
+
+external/pysoundtouch14/soundtouchmodule.cpp: In function ‘void SoundTouch_dealloc(SoundTouch*)’:
+
+external/pysoundtouch14/soundtouchmodule.cpp:64: error: ‘struct SoundTouch’ has no member named ‘soundtouch’
+
+external/pysoundtouch14/soundtouchmodule.cpp:65: error: ‘struct SoundTouch’ has no member named ‘ob_type’
+
+external/pysoundtouch14/soundtouchmodule.cpp:65: error: ‘PyObject’ was not declared in this scope
+
+external/pysoundtouch14/soundtouchmodule.cpp:65: error: expected primary-expression before ‘)’ token
+
+external/pysoundtouch14/soundtouchmodule.cpp: At global scope:
+
+external/pysoundtouch14/soundtouchmodule.cpp:69: error: expected initializer before ‘*’ token
+
+external/pysoundtouch14/soundtouchmodule.cpp:81: error: ‘PyObject’ has not been declared
+
+external/pysoundtouch14/soundtouchmodule.cpp:81: error: ‘PyObject’ has not been declared
+
+external/pysoundtouch14/soundtouchmodule.cpp:87: error: expected initializer before ‘*’ token
+
+error: command 'gcc' failed with exit status 1
+
+----------------------------------------
+Command /usr/bin/python -c "import setuptools; __file__='/home/vivek/CompBio/data/MSD/build/remix/setup.py'; execfile('/home/vivek/CompBio/data/MSD/build/remix/setup.py')" install --single-version-externally-managed --record /tmp/pip-vMNb_y-record/install-record.txt --install-headers /home/vivek/CompBio/data/MSD/lib/include failed with error code 1
+Exception information:
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 252, in main
+    self.run(options, args)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 410, in run
+    requirement_set.install(install_options)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 2017, in install
+    requirement.install(install_options)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 1515, in install
+    cwd=self.source_dir, filter_stdout=self._filter_install, show_stdout=False)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 3543, in call_subprocess
+    % (command_desc, proc.returncode))
+InstallationError: Command /usr/bin/python -c "import setuptools; __file__='/home/vivek/CompBio/data/MSD/build/remix/setup.py'; execfile('/home/vivek/CompBio/data/MSD/build/remix/setup.py')" install --single-version-externally-managed --record /tmp/pip-vMNb_y-record/install-record.txt --install-headers /home/vivek/CompBio/data/MSD/lib/include failed with error code 1

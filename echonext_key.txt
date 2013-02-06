@@ -1,0 +1,5 @@
+ Your API Key: RQXNEZNEIJWY6YM35
+
+Your Consumer Key: 01f3915baae06208b594c875280856c2
+
+Your Shared Secret: OEBauGbDR9SvdicPmY54Jw
